@@ -1,0 +1,12 @@
+💠 Modération:
+
+
+-mute @PSEUDO 10m
+
+= La personne mentionnée ne pourras plus écrire pendant 10 minutes.
+(M: minutes | H: heures | Y: années)
+
+-clear 20
+
+= Supprime les 20 derniers messages du salon ciblé.
+
